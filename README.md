@@ -1,4 +1,4 @@
-# tour-travelling-website
+# tour-travelling-website  MERN stack
 Welcome to the Tour and Traveling Website GitHub repository! This project aims to provide a comprehensive and user-friendly platform for planning, organizing, and booking your dream vacations and travel experiences. Whether you're an avid traveler or just looking to explore new destinations, our website offers a range of features to enhance your journey.
 ![image](https://github.com/Taterao3133/tour-travelling-website/assets/122861107/5ee8fbd3-d5f5-414f-ad1d-ded7c4e20e79)
 
