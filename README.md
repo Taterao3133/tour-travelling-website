@@ -1,4 +1,4 @@
-# tour-travelling-website  MERN stack
+# tour-travelling-website  MERN stack Using CRUD & Authentification
 Welcome to the Tour and Traveling Website GitHub repository! This project aims to provide a comprehensive and user-friendly platform for planning, organizing, and booking your dream vacations and travel experiences. Whether you're an avid traveler or just looking to explore new destinations, our website offers a range of features to enhance your journey.
 ![image](https://github.com/Taterao3133/tour-travelling-website/assets/122861107/5ee8fbd3-d5f5-414f-ad1d-ded7c4e20e79)
 
@@ -30,15 +30,27 @@ Installation
 To set up the Tour and Traveling Website locally on your machine, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/tour-travelling-website.git
+
 Navigate to the project directory: cd tour-travel-website
+
 Install dependencies: npm install
+
 Configure the database connection in config.js
+
 Start the development server: npm start
+
 Open your web browser and visit: http://localhost:3000
-Usage
+
+# Usage
 Register or log in to your account.
+
 Explore destinations, Read user reviews to plan your trip.
+
+Users can book a tour according to their availability dates.
+
 Use the itinerary builder to create and customize your travel plans.
+
+
 
 
 
