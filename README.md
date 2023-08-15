@@ -38,6 +38,7 @@ Install dependencies: npm install
 Configure the database connection in config.js
 
 Start the development server: npm start
+for backend : npm run start-dev
 
 Open your web browser and visit: http://localhost:3000
 
