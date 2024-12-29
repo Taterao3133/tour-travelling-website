@@ -1,5 +1,5 @@
 import React from 'react'
-import { Countainer, Row,Col, Bitton, Container, Button} from 'reactstrap';
+import {  Row,Col, Container, Button} from 'reactstrap';
 import { Link } from 'react-router-dom';
 import '../styles/thankyou.css'
 

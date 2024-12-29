@@ -10,7 +10,7 @@ import worldImg from '../assets/images/world.png';
 
 import Searchbar from '../shared/searchbar';
 import Services from '../services/services';
-import Featuredtourlist from '../components/featuredtourlist/featuredtourlist';
+// import Featuredtourlist from '../components/featuredtourlist/featuredtourlist';
 import MasonryImages from '../components/gallery-images/masonImages';
 import Newslatter from '../shared/newslatter';
 import TourData from '../assets/data/tours'

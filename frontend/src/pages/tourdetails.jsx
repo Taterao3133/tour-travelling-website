@@ -1,8 +1,7 @@
 
 import '../styles/tour-details.css'
-import React , {
-useParams } from 'react-router-dom'
-import TourData from '../assets/data/tours'
+import React , {useParams } from 'react-router-dom'
+// import TourData from '../assets/data/tours'
 import { Container,Row,Col,Form,ListGroup } from 'reactstrap'
 import calculateAvgrating from '../utils/avgRating'
 
@@ -18,7 +17,6 @@ const Tourdetails=()=> {
   const reviewMsgRef=useRef('')
   const [tourRating, setTourRating]=useState(null)
 
-  // this is an static data later we will call our api load our data from database
   // const tour=TourData.find(tour=>tour._id===_id)
   
   //fetching data from database
@@ -30,7 +28,6 @@ const Tourdetails=()=> {
   }
 
 
-  //destructure properites from tour object
  let {photo, title,desc, price,reviews, address, city, distance, maxGroupSize}=tour || {}
 
 
@@ -46,7 +43,6 @@ const Tourdetails=()=> {
     alert(`${reviewText},${tourRating}`);
      console.log(`${reviewText},${tourRating}`);
 
-    //later we will call our api
   }
 
 
